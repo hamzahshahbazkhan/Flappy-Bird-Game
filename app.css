@@ -1,0 +1,12 @@
+body {
+    background-color: #71c5cf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#board {
+    background-image: url("../img/flappybirdbg.png");
+    width: 1080px;
+    height: 640px;
+}
